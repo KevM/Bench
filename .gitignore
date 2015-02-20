@@ -1,0 +1,6 @@
+packages
+obj
+bin
+*.suo
+*.user
+paket.lock
